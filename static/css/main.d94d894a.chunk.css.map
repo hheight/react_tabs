@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,MACE,eACF,CAEA,cACE,YAAa,CACb,QAAS,CACT,cAAe,CACf,SACF,CAEA,sBACE,4BACF","file":"main.d94d894a.chunk.css","sourcesContent":[".tabs {\n  max-width: 600px;\n}\n\n.tabs__button {\n  padding: 10px;\n  border: 0;\n  cursor: pointer;\n  outline: 0;\n}\n\n.tabs__button--active {\n  border-bottom: 1px solid black;\n}\n"]}
